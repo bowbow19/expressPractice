@@ -1,0 +1,17 @@
+
+.btn{
+  display: inline-block;
+  text-decoration: none;
+  color:black;
+  background-color: lightgray;
+  padding: 5px;
+  border-radius: 3px;
+  width: 100px;
+  text-align: center;
+}
+
+.nav-item{
+  position: absolute;
+  right:  10px;
+  top:10px;
+}
